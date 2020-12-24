@@ -1,0 +1,11 @@
+--------------- Reading from file ArraydictPS14.txt --------------
+BST Created with 6 nodes
+----------------------------------------------------
+------------------- Search words -------------------
+cat - small domesticated carnivorous mammal from cat family
+sky - region of the atmosphere
+shake - not found
+----------------------------------------------------
+--------------- Sub String: ca ------------------
+camel,cat
+----------------------------------------------------
