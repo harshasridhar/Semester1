@@ -1,0 +1,105 @@
+Playlist Operations:
+
+1. Add a song to the playlist
+2. Delete a song from the playlist
+3. Find a song by name
+4. Next track / Previous track
+5. Sort playlist by song title
+6. Display playlist
+7. Exit
+Enter Song Title:
+Enter Song Duration:
+Playlist Operations:
+
+1. Add a song to the playlist
+2. Delete a song from the playlist
+3. Find a song by name
+4. Next track / Previous track
+5. Sort playlist by song title
+6. Display playlist
+7. Exit
+Enter Song Title:
+Enter Song Duration:
+Playlist Operations:
+
+1. Add a song to the playlist
+2. Delete a song from the playlist
+3. Find a song by name
+4. Next track / Previous track
+5. Sort playlist by song title
+6. Display playlist
+7. Exit
+Enter Song Title:
+Enter Song Duration:
+Playlist Operations:
+
+1. Add a song to the playlist
+2. Delete a song from the playlist
+3. Find a song by name
+4. Next track / Previous track
+5. Sort playlist by song title
+6. Display playlist
+7. Exit
+Enter Song Title:
+Enter Song Duration:
+Playlist Operations:
+
+1. Add a song to the playlist
+2. Delete a song from the playlist
+3. Find a song by name
+4. Next track / Previous track
+5. Sort playlist by song title
+6. Display playlist
+7. Exit
+Enter Song Title:
+Enter Song Duration:
+Playlist Operations:
+
+1. Add a song to the playlist
+2. Delete a song from the playlist
+3. Find a song by name
+4. Next track / Previous track
+5. Sort playlist by song title
+6. Display playlist
+7. Exit
+Playlist currently contains 5 song(s)
+1. Believer <3:23>
+2. Shotgun <3:21>
+3. Titanium <4:07>
+4. Kiki do you love me <3:39>
+5. Shape of you <3:52>
+Playlist Operations:
+
+1. Add a song to the playlist
+2. Delete a song from the playlist
+3. Find a song by name
+4. Next track / Previous track
+5. Sort playlist by song title
+6. Display playlist
+7. Exit
+Enter the track number to be deleted:
+Track at position 3 deleted
+Playlist Operations:
+
+1. Add a song to the playlist
+2. Delete a song from the playlist
+3. Find a song by name
+4. Next track / Previous track
+5. Sort playlist by song title
+6. Display playlist
+7. Exit
+Playlist currently contains 4 song(s)
+1. Believer <3:23>
+2. Shotgun <3:21>
+3. Kiki do you love me <3:39>
+4. Shape of you <3:52>
+Playlist Operations:
+
+1. Add a song to the playlist
+2. Delete a song from the playlist
+3. Find a song by name
+4. Next track / Previous track
+5. Sort playlist by song title
+6. Display playlist
+7. Exit
+Exiting!
