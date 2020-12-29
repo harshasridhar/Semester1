@@ -1,0 +1,198 @@
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Enter vertex
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Enter vertex
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Enter vertex
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Enter vertex
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Enter vertex1:
+Enter vertex2
+Enter the weight:
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Enter vertex1:
+Enter vertex2
+Enter the weight:
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Enter vertex1:
+Enter vertex2
+Enter the weight:
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Enter vertex1:
+Enter vertex2
+Enter the weight:
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Enter vertex1:
+Enter vertex2
+Enter the weight:
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+0 5 9 7
+5 0 0 6
+9 0 0 8
+7 6 8 0
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+A->B
+A->C
+A->D
+B->A
+B->D
+C->A
+C->D
+D->A
+D->B
+D->C
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Enter source vertex:
+A
+B
+C
+D
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Enter source vertex:
+A
+D
+C
+B
+1.AddVertex
+2.removeVertex
+3.AddEdge
+4.removeEdge
+5.DisplayAdjacentMatrix
+6.DisplayEdges
+7.BFS
+8.DFS
+9.Check Flight availability
+0.exit()
+Enter your choice
+Exiting
